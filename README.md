@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo</h1>
-<h3 align="center">A passionate frontend developer / UI|UX Designer from México.</h3>
+<h3 align="center">A passionate UI|UX Designer and FrontEnd developer from México.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfiddle&label=Profile%20views&color=0e75b6&style=flat" alt="mrfiddle" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrfiddle" alt="mrfiddle" /></a> </p>
+- 🔭 I’m currently working as **a freelancer**
 
 - 🌱 I’m currently learning **GoLang and Design skills**
 
 - 📫 How to reach me **jppd0657@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1c8dRY3D7pjKo8s5R_7j7Fzuha8eu0UPT/view](https://drive.google.com/file/d/1c8dRY3D7pjKo8s5R_7j7Fzuha8eu0UPT/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
