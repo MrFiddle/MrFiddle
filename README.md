@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **GoLang and Design skills**
 
-- 📫 How to reach me **jppd0657@gmail.com**
+- 📫 Write me on **jppd0657@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c8dRY3D7pjKo8s5R_7j7Fzuha8eu0UPT/view](https://drive.google.com/file/d/1c8dRY3D7pjKo8s5R_7j7Fzuha8eu0UPT/view)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1c8dRY3D7pjKo8s5R_7j7Fzuha8eu0UPT/view](https://drive.google.com/file/d/1c8dRY3D7pjKo8s5R_7j7Fzuha8eu0UPT/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
