@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo</h1>
 <h3 align="center">A passionate UI|UX Designer and FrontEnd developer from México.</h3>
 
-- 🔭 I’m currently working as **a freelancer**
+- 🔭 I’m currently working in Orcus as **full stack web developer**
 
 - 🌱 I’m currently learning **GoLang and Design skills**
 
